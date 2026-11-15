@@ -1,6 +1,6 @@
-# omaTUNES pacman repository
+# Omatunes pacman repository
 
-A small binary pacman repository for [omaTUNES](https://github.com/habdelrahman510-tech/Omatunes-Deluxe),
+A small binary pacman repository for [Omatunes](https://github.com/habdelrahman510-tech/Omatunes-Deluxe),
 the Wayland music player for Omarchy. It exists so the player can be installed
 and updated with `pacman -Syu` while the AUR has new account registration
 paused.
@@ -25,7 +25,7 @@ sudo pacman -Sy omatunes-bin
 
 ## Updates
 
-Every omaTUNES release is added here as a new `pkgver-pkgrel`, so a plain
+Every Omatunes release is added here as a new `pkgver-pkgrel`, so a plain
 `sudo pacman -Syu` keeps the player current. Nothing else in this repository
 changes.
 
